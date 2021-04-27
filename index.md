@@ -4,16 +4,16 @@
 
 ## Datos Generales
 
-**Nombre:** Andrea Zoraya Ortiz Coronel
-**Edad:** 25
-**Celular:** 811 6247 619
-**Correo:** <andrea.zoraya@hotmail.com>
+**Nombre:** Andrea Zoraya Ortiz Coronel <br>
+**Edad:** 25 <br>
+**Celular:** 811 6247 619 <br>
+**Correo:** <andrea.zoraya@hotmail.com> <br>
 
 ## Perfil
 Desarrollador Java con experiencia en mantenimiento y corrección de errores en sistemas implementados, así como desarrollo de proyectos. Atención y apoyo a usuarios sobre dudas o problemas con la operación. Todo esto trabajando en equipo con compromiso y responsabilidad.
 
 ## Formación Académica
-**Facultad de Ciencias Físico Matemáticas (Agosto 2012 – Diciembre 2016)**
+**Facultad de Ciencias Físico Matemáticas (Agosto 2012 – Diciembre 2016)** <br>
 Licenciada en Ciencias Computacionales
 
 ## Cualificaciones
@@ -26,11 +26,11 @@ Licenciada en Ciencias Computacionales
 
 ## Experiencia
 ### Towa (Abril 2018 –  Julio-2019)
-_Incidencias eIBS_ 
+_Incidencias eIBS_ <br>
 Análisis y solución de problemas de la aplicación eIBS, trabajando con Java, BD como AS400 y DB2 y con herramientas como Rational y Websphere.
 _Logro:_ Estar al día con las incidencias asignadas a la fábrica y apegarse a las nuevas formas de trabajo indicadas por el líder superior
 
 ### CoreApps (Julio 2019 - Actualmente)
-_Desarrollador Oracle JR_ 
+_Desarrollador Oracle JR_ <br>
 Soporte técnico en diferentes interfaces para diferentes clientes en Oracle.
 _Logo:_ Apoyo en contruccion de una integración la cual apoya al timbrado de facturas y actualización de información en la interfaz del ERP (Oracle Cloud)
