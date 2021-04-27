@@ -1,6 +1,6 @@
 ## Andrea Zoraya Ortiz Coronel
 
-<img src="https://raw.githubusercontent.com/AndreaOC/AndreaOC.github.io/9a0970b61d65bac625e59addecdd098b7c035936/img/AndreaOrtiz.jpg" width="48">
+[[https://raw.githubusercontent.com/AndreaOC/AndreaOC.github.io/9a0970b61d65bac625e59addecdd098b7c035936/img/AndreaOrtiz.jpg | altura 100px]]
 
 You can use the [editor on GitHub](https://github.com/AndreaOC/AndreaOC.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
