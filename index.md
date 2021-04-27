@@ -23,14 +23,15 @@ Licenciada en Ciencias Computacionales
  - Ambientes de Desarrollo (IDE): NetBeans, Visual Code
  - Sistemas de Control de Versiones: GIT
  - Ingles básico
+ <br>
 
 ## Experiencia
 ### Towa (Abril 2018 –  Julio-2019)
 _Incidencias eIBS_ <br>
-Análisis y solución de problemas de la aplicación eIBS, trabajando con Java, BD como AS400 y DB2 y con herramientas como Rational y Websphere.
+Análisis y solución de problemas de la aplicación eIBS, trabajando con Java, BD como AS400 y DB2 y con herramientas como Rational y Websphere.<br>
 _Logro:_ Estar al día con las incidencias asignadas a la fábrica y apegarse a las nuevas formas de trabajo indicadas por el líder superior
 
 ### CoreApps (Julio 2019 - Actualmente)
 _Desarrollador Oracle JR_ <br>
-Soporte técnico en diferentes interfaces para diferentes clientes en Oracle.
+Soporte técnico en diferentes interfaces para diferentes clientes en Oracle.<br>
 _Logo:_ Apoyo en contruccion de una integración la cual apoya al timbrado de facturas y actualización de información en la interfaz del ERP (Oracle Cloud)
