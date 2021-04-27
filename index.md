@@ -4,41 +4,33 @@
 
 ### Datos Generales
 
-<mark>Nombre: </mark> Anny
+**Nombre:** Andrea Zoraya Ortiz Coronel
+**Edad:** 25
+**Celular:** 811 6247 619
+**Correo:** <andrea.zoraya@hotmail.com>
 
+### Perfil
+Desarrollador Java con experiencia en mantenimiento y corrección de errores en sistemas implementados, así como desarrollo de proyectos. Atención y apoyo a usuarios sobre dudas o problemas con la operación. Todo esto trabajando en equipo con compromiso y responsabilidad.
 
-You can use the [editor on GitHub](https://github.com/AndreaOC/AndreaOC.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Formación Académica
+**Facultad de Ciencias Físico Matemáticas (Agosto 2012 – Diciembre 2016)**
+Licenciada en Ciencias Computacionales
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Cualificaciones
+ - Lenguajes de Programación / Scripts: HTML, Java EE, JavaScript
+ - Bases de Datos: MySQL , OracleSQL (Consultas y manejo de Procedimientos Almacenados)
+ - Webservices: SOAP, REST 
+ - Ambientes de Desarrollo (IDE): NetBeans, Visual Code
+ - Sistemas de Control de Versiones: GIT
+ - Ingles básico
 
-### Markdown
+### Experiencia
+## Towa (Abril 2018 –  Julio-2019)
+_Incidencias eIBS_
+Análisis y solución de problemas de la aplicación eIBS, trabajando con Java, BD como AS400 y DB2 y con herramientas como Rational y Websphere.
+_Logro:_ Estar al día con las incidencias asignadas a la fábrica y apegarse a las nuevas formas de trabajo indicadas por el líder superior
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndreaOC/AndreaOC.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## CoreApps (Julio 2019 - Actualmente)
+_Desarrollador Oracle JR_
+Soporte técnico en diferentes interfaces para diferentes clientes en Oracle.
+_Logo:_ Apoyo en contruccion de una integración la cual apoya al timbrado de facturas y actualización de información en la interfaz del ERP (Oracle Cloud)
